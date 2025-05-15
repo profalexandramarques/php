@@ -1,6 +1,6 @@
-# php
+# PHP
 Arquivos PHP
 ## Arquivos
-Arquivos em PHP
+🚀 Arquivos em PHP
 ### Sobre
 Professora Alexandra Marques
